@@ -1,11 +1,17 @@
 /*
 
+
+
   Author: Jared Blanco
   Email: JBlanco2018@my.fit.edu
   Course: CSE 2010
   Section: 03
 
   Description:
+
+    To run program: gcc *.c -o hw3 && ./hw3 hw2in2.txt
+
+
     Program will scan a list of encrypted strings into a linked list.
 
     Than recursivly gernerats all combinations of lower case letter words in the 'word_Generator' function,
